@@ -7,7 +7,7 @@
 👩‍💻 Estudando para me tornar um Desenvolvedor Web Fullstack, com foco em linguagem Java, porém, com curiosidade para aprender algo novo, sempre.
 
 📚 Formado na Turma 50 do Bootcamp "Pessoa Desenvolvedora Full Stack Java Jr. - Generation Brasil 03/2022 - 06/2022"
-   Cursando Análise e Desenvolvimento de Sistemas / UNIP - Universidade Paulista - 07/2022 a 07/2024
+📚 Cursando Análise e Desenvolvimento de Sistemas / UNIP - Universidade Paulista - 07/2022 a 07/2024
 
 #
 
